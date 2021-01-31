@@ -1,0 +1,19 @@
+{
+  "name": "daxigua",
+  "version": "1.0.0",
+  "description": "> 有帮助的话，求个大大的 star，有疑问请联系 wx：liyupi66 >  > 遇到问题可以先阅读本文档最后『 问题及解决 』",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyupi/daxigua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyupi/daxigua/issues"
+  },
+  "homepage": "https://github.com/liyupi/daxigua#readme"
+}
